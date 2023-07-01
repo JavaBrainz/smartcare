@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BusinessServiceImpl/BusinessServiceImpl.iml" filepath="$PROJECT_DIR$/BusinessServiceImpl/BusinessServiceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BusinessServiceInterface/BusinessServiceInterface.iml" filepath="$PROJECT_DIR$/BusinessServiceInterface/BusinessServiceInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataAccessRepository/DataAccessRepository.iml" filepath="$PROJECT_DIR$/DataAccessRepository/DataAccessRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExternalServiceIntegration/ExternalServiceIntegration.iml" filepath="$PROJECT_DIR$/ExternalServiceIntegration/ExternalServiceIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartCare-Backend.iml" filepath="$PROJECT_DIR$/SmartCare-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartCareCommon/SmartCareCommon.iml" filepath="$PROJECT_DIR$/SmartCareCommon/SmartCareCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebRestController/WebRestController.iml" filepath="$PROJECT_DIR$/WebRestController/WebRestController.iml" />
+    </modules>
+  </component>
+</project>

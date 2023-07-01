@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BusinessServiceImpl" />
+        <module name="WebRestController" />
+        <module name="DataAccessRepository" />
+        <module name="ExternalServiceIntegration" />
+        <module name="SmartCare-Backend" />
+        <module name="BusinessServiceInterface" />
+        <module name="SmartCareCommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BusinessServiceImpl" target="17" />
+      <module name="BusinessServiceInterface" target="1.8" />
+      <module name="DataAccessRepository" target="1.8" />
+      <module name="ExternalServiceIntegration" target="1.8" />
+      <module name="SmartCare-Backend" target="1.8" />
+      <module name="SmartCareCommon" target="1.8" />
+      <module name="WebRestController" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BusinessServiceImpl" options="-parameters" />
+      <module name="BusinessServiceInterface" options="-parameters" />
+      <module name="DataAccessRepository" options="-parameters" />
+      <module name="ExternalServiceIntegration" options="-parameters" />
+      <module name="SmartCare-Backend" options="-parameters" />
+      <module name="SmartCareCommon" options="-parameters" />
+      <module name="WebRestController" options="-parameters" />
+    </option>
+  </component>
+</project>

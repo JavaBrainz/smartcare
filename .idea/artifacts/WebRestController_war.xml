@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebRestController:war">
+    <output-path>$PROJECT_DIR$/WebRestController/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WebRestController</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WebRestController-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WebRestController:war exploded" />
+    </root>
+  </artifact>
+</component>
